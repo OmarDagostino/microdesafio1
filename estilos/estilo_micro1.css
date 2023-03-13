@@ -1,0 +1,16 @@
+*
+{
+    background-color: aqua;
+}
+h1 
+{
+    text-align: center;
+    margin-top: 240px;
+    font-weight: bolder;
+    font-size: 70px;
+}
+#reloj_de_arena
+{
+    width: 33%;
+    margin-left: 45%;
+}
